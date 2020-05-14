@@ -2,5 +2,5 @@
 Don't miss your training session bruh
 
 ## Attendees
-
-[x] Romain was here 
+- [X] Tania Turdean
+- [x] Romain was here 
