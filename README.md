@@ -2,3 +2,4 @@
 Don't miss your training session bruh
 
 ## Attendees
+- [x] Bhavya
