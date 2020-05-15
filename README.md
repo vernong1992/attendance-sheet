@@ -5,3 +5,4 @@ Don't miss your training session bruh
 -   [x] Tony Wu - good to see everyone
 - [X] Tania Turdean
 - [x] Romain was here 
+- [x] Stefania Juks
