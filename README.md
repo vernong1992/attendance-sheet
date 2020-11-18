@@ -8,3 +8,4 @@ Don't miss your training session bruh
 - [x] Romain was here 
 - [x] Stefania Juks
 - [X] Tony Wu - for second time
+- [X] Tony Wu - for the third time
